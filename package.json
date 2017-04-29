@@ -1,0 +1,28 @@
+{
+  "name": "smokinjs",
+  "version": "1.0.0",
+  "description": "This thing rips `$_$`",
+  "main": "smokin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StoneCypher/smokinjs.git"
+  },
+  "keywords": [
+    "this",
+    "thing",
+    "rips",
+    "smokin",
+    "$_$",
+    "queryselectorall",
+    "wut"
+  ],
+  "author": "John Haugeland <stonecypher@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StoneCypher/smokinjs/issues"
+  },
+  "homepage": "https://github.com/StoneCypher/smokinjs#readme"
+}
