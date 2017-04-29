@@ -1,6 +1,6 @@
 {
   "name": "smokinjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This thing rips `$_$`",
   "main": "smokin.js",
   "scripts": {
